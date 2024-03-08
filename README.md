@@ -10,7 +10,7 @@ and Medical Authentication sytem using Flask(python) which can able submit stude
 
 
 
-🌱 I’m currently learning Docker and Docker hub
+🌱 I’m currently learning Docker and Docker hub and kubernates
 <!--
 **lazantha/lazantha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
