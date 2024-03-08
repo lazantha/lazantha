@@ -1,7 +1,7 @@
 ### Hi there 👋
 ###My name is Lasantha and im Srilanka Advanced Technological Istitute (SLIATE) Trained Developer interested in Python ,Java C++ ,PHP  
 ### 🔭 I’m currently working on Inventory Management System Using Laravel /php
-### 🔭 I’m recently built Blog portal using Django(python) which can able to share own interested youtube videos to others,check it out [here](https://github.com/lazantha/my_blog)
+### 🔭 I’m recently built Blog portal using Django(python) which can able to share own interested youtube videos to others,check it out [here](https://github.com/lazantha/my_portal)
 and Medical Authentication sytem using Flask(python) which can able submit students's medical report to the admins/company ,check it out [here](https://github.com/lazantha/MedicalSystem) 
 ###😄 interested in Machine Learning Python  check it out [here](https://github.com/lazantha/Machine-Learning) 
 
